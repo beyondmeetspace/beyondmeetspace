@@ -1,5 +1,17 @@
-## __AP Leith, Ph.D.__
+## __Beyond Meetspace__
 
+<br>
+
+### Personnel
+
+- Dr. Rabindra Ratan, Michigan State University
+- Dr. Maxwell Foxman, University of Oregon
+- Dr. Alex P. Leith, Southern Illinois University Edwardsville
+- Dr. David Beyea, University of Wisconsin Whitewater
+- Dr. Brian Kelbig, Bethany Luthern College
+- Dr. Brian Winn, Michigan State University
+
+<!--
 - 🎓 I have a Ph.D. in Media & Information Studies from Michigan State University
 - 💻 I student text-based messages around online communities, virtual reality, and remote work
 - 🎮 I tend to gear my research to video games and video game communities, both players and streamers.
@@ -19,7 +31,7 @@
 ## __GitHub Language Usage__
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apleith&layout=compact&theme=dracula)](https://github.com/apleith)
 
-<!--
+
 ### Hi there 👋
 
 
